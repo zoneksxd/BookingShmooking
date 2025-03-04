@@ -1,0 +1,53 @@
+﻿@page
+@model testprojekt.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form id="loginForm" method="post">
+    <div>
+        <label asp-for="Login.Email"></label>
+        <input asp-for="Login.Email" type="email" id="email" required />
+        <span asp-validation-for="Login.Email"></span>
+    </div>
+    <div>
+        <label asp-for="Login.Password"></label>
+        <input asp-for="Login.Password" type="password" id="password" required />
+        <span asp-validation-for="Login.Password"></span>
+    </div>
+    <button type="submit">Login</button>
+</form>
+
+<p id="errorMessage" style="color:red;">@Model.Message</p>
+
+@section Scripts {
+    <script>
+        document.getElementById("loginForm").addEventListener("submit", async function (e) {
+            e.preventDefault();
+
+            const email = document.getElementById("email").value;
+            const password = document.getElementById("password").value;
+
+            const response = await fetch("/api/auth/login", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ email, password })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                // Сохраняем JWT-токен в Local Storage
+                localStorage.setItem("jwtToken", data.token);
+                // Перенаправляем пользователя на главную страницу
+                window.location.href = "/Index";
+            } else {
+                const errorData = await response.json();
+                document.getElementById("errorMessage").innerText = "Ошибка входа: " + (errorData.error || "Неверный Email или пароль.");
+            }
+        });
+    </script>
+}

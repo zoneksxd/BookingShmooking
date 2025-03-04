@@ -1,0 +1,72 @@
+﻿@page
+@model testprojekt.Pages.CommentsModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Комментарии в реальном времени";
+}
+
+<h2>Комментарии в реальном времени</h2>
+
+<!-- Блок для отображения комментариев из базы данных -->
+<div id="commentsList" style="margin-bottom:20px; padding:10px; border:1px solid #ddd; min-height:150px; background:#fafafa;">
+    @if (Model.Comments.Any())
+    {
+        @foreach (var comment in Model.Comments)
+        {
+            <p>@comment.UserName: @comment.Text (@comment.CreatedAt.ToLocalTime())</p>
+        }
+    }
+    else
+    {
+        <p>Комментариев пока нет.</p>
+    }
+</div>
+
+<hr />
+
+<!-- Форма для отправки нового комментария -->
+<form id="commentForm">
+    <div>
+        <label for="userInput">Ваше имя:</label>
+        <input type="text" id="userInput" required />
+    </div>
+    <div>
+        <label for="messageInput">Комментарий:</label>
+        <input type="text" id="messageInput" required />
+    </div>
+    <button type="submit">Отправить</button>
+</form>
+
+@section Scripts {
+    <!-- Используем CDN для SignalR -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.2/signalr.min.js"></script>
+    <script>
+        // Создаем соединение с хабом "CommentsHub"
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/commentshub")
+            .configureLogging(signalR.LogLevel.Information)
+            .build();
+
+        connection.on("ReceiveComment", (user, text, createdAt) => {
+            const commentsList = document.getElementById("commentsList");
+            const p = document.createElement("p");
+            const date = new Date(createdAt);
+            p.innerText = `${user}: ${text} (${date.toLocaleString()})`;
+            // Добавляем новый комментарий в начало списка
+            commentsList.prepend(p);
+        });
+
+        connection.start().then(() => {
+            console.log("SignalR connected");
+        }).catch(err => console.error("SignalR Connection Error: ", err));
+
+        document.getElementById("commentForm").addEventListener("submit", function (event) {
+            event.preventDefault();
+            const user = document.getElementById("userInput").value;
+            const message = document.getElementById("messageInput").value;
+            connection.invoke("SendComment", user, message)
+                .catch(err => console.error("SendComment Error: ", err));
+            document.getElementById("messageInput").value = "";
+        });
+    </script>
+}

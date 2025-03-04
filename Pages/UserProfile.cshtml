@@ -1,0 +1,19 @@
+﻿@page
+@model testprojekt.Pages.UserProfileModel
+@{
+    ViewData["Title"] = "Профиль пользователя";
+}
+
+<div class="container">
+    <h2>Профиль пользователя</h2>
+    @if (Model.UserProfile != null)
+    {
+        <p><strong>Имя:</strong> @Model.UserProfile.Name</p>
+        <p><strong>Email:</strong> @Model.UserProfile.Email</p>
+        <p><strong>Роль:</strong> @Model.UserProfile.Role</p>
+    }
+    else
+    {
+        <p>Данные пользователя не найдены.</p>
+    }
+</div>

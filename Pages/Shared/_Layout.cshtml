@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Booking shmooking</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Booking shmooking</h1>
+            <nav>
+                <a asp-page="/Index">Главная</a> |
+                <a asp-page="/Login">Вход</a> |
+                <a asp-page="/Register">Регистрация</a> |
+                <a asp-page="/Workspaces/Index">Рабочие пространства</a> |
+                <a asp-page="/Booking">Бронирование</a> |
+                <a asp-page="/UserProfile">Профиль</a> |
+                <a asp-page="/Comments">Комментарии</a> |
+                <a asp-page="/Logout">Выйти</a>
+            </nav>
+        </div>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <p>&copy; 2025 Booking Shmooking</p>
+    </footer>
+</body>
+@RenderSection("Scripts", required: false)
+</html>

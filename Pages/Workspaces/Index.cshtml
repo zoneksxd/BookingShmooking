@@ -1,0 +1,42 @@
+﻿@page
+@model testprojekt.Pages.Workspaces.IndexModel
+@{
+    ViewData["Title"] = "Рабочие пространства";
+}
+
+<h2>Список рабочих пространств</h2>
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+    <div class="mb-3">
+        <a class="btn btn-success" asp-page="/Admin/Workspaces/Create">Добавить рабочее пространство</a>
+    </div>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Название</th>
+            <th>Описание</th>
+            <th>Вместимость</th>
+            <th>Цена за час</th>
+            <th>Доступность</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var workspace in Model.Workspaces)
+        {
+            <tr>
+                <td>@workspace.Name</td>
+                <td>@workspace.Description</td>
+                <td>@workspace.Capacity</td>
+                <td>@workspace.PricePerHour</td>
+                <td>@(workspace.IsAvailable ? "Да" : "Нет")</td>
+                <td>
+                    <a class="btn btn-info" asp-page="/Workspaces/Details" asp-route-id="@workspace.Id">Подробнее</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

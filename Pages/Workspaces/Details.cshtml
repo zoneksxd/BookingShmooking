@@ -1,0 +1,22 @@
+﻿@page "{id:int}"
+@model testprojekt.Pages.Workspaces.DetailsModel
+@{
+    ViewData["Title"] = "Детали рабочего пространства";
+}
+
+<h2>Детали рабочего пространства</h2>
+
+@if (Model.Workspace != null)
+{
+    <div>
+        <p><strong>Название:</strong> @Model.Workspace.Name</p>
+        <p><strong>Описание:</strong> @Model.Workspace.Description</p>
+        <p><strong>Вместимость:</strong> @Model.Workspace.Capacity</p>
+        <p><strong>Цена за час:</strong> @Model.Workspace.PricePerHour</p>
+        <p><strong>Доступность:</strong> @(Model.Workspace.IsAvailable ? "Да" : "Нет")</p>
+    </div>
+}
+else
+{
+    <p>Рабочее пространство не найдено.</p>
+}

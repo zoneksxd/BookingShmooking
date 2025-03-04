@@ -1,0 +1,30 @@
+﻿@page "{workspaceId?}"
+@model testprojekt.Pages.BookingModel
+@{
+    ViewData["Title"] = "Бронирование рабочего пространства";
+}
+
+<h2>Бронирование рабочего пространства</h2>
+
+<form method="post">
+    <div>
+        <label asp-for="Booking.WorkspaceId"></label>
+        <input asp-for="Booking.WorkspaceId" readonly />
+    </div>
+    <div>
+        <label asp-for="Booking.StartTime"></label>
+        <input asp-for="Booking.StartTime" type="datetime-local" />
+        <span asp-validation-for="Booking.StartTime"></span>
+    </div>
+    <div>
+        <label asp-for="Booking.EndTime"></label>
+        <input asp-for="Booking.EndTime" type="datetime-local" />
+        <span asp-validation-for="Booking.EndTime"></span>
+    </div>
+    <button type="submit">Забронировать</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <p>@Model.Message</p>
+}

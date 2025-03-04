@@ -1,0 +1,924 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\_viewimports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\_viewimports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\workspaces\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\workspaces\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\workspaces\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\workspaces\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\workspaces\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\workspaces\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\admin\\workspaces\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\admin\\workspaces\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\admin\\workspaces\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\admin\\workspaces\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\controllers\\workspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:controllers\\workspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\hubs\\workspaceshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:hubs\\workspaceshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\hubs\\commentshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:hubs\\commentshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\comments.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\comments.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\models\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:models\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\userprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\userprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\booking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\booking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\workspaces\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\workspaces\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\filters\\errorhandlerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:filters\\errorhandlerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\dto\\workspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:dto\\workspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\testprojekt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:testprojekt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|c:\\users\\artem\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\testprojekt.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2F146A93-D8D0-42C0-A2DD-3FAAF73F216B}|testprojekt.csproj|solutionrelative:testprojekt.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:02:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\AccessDenied.cshtml",
+              "RelativeToolTip": "Pages\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T20:13:21.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "Pages\\AccessDenied.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:13:32.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Booking.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Booking.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Booking.cshtml",
+              "RelativeToolTip": "Pages\\Booking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:05:35.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T20:21:13.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:04:44.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:04:34.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:04:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:03:48.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\_ViewImports.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\_ViewImports.cshtml.cs",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:25:33.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:02:20.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Workspaces\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Workspaces\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Workspaces\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Workspaces\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:05:59.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Workspaces\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Workspaces\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Workspaces\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Workspaces\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:06:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Workspaces\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Workspaces\\Details.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Workspaces\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Workspaces\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:06:37.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:03:23.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Admin\\Workspaces\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Workspaces\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Admin\\Workspaces\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Workspaces\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:23:05.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Admin\\Workspaces\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Workspaces\\Create.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Admin\\Workspaces\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Workspaces\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T00:22:58.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Shared\\_Layout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Shared\\_Layout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:05:09.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:05:12.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\_ViewStart.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\_ViewStart.cshtml.cs",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:46:48.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "Pages\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\UserProfile.cshtml",
+              "RelativeToolTip": "Pages\\UserProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T00:31:26.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:47:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-03T01:06:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-03T00:03:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T01:43:58.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WorkspaceController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\WorkspaceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkspaceController.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\WorkspaceController.cs",
+              "RelativeToolTip": "Controllers\\WorkspaceController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:50:22.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WorkspacesHub.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Hubs\\WorkspacesHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\WorkspacesHub.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Hubs\\WorkspacesHub.cs",
+              "RelativeToolTip": "Hubs\\WorkspacesHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:29:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:06:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CommentsHub.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Hubs\\CommentsHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\CommentsHub.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Hubs\\CommentsHub.cs",
+              "RelativeToolTip": "Hubs\\CommentsHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:22:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:05:41.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:18:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:00:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Comments.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Comments.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Comments.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Comments.cshtml.cs",
+              "RelativeToolTip": "Pages\\Comments.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:22:59.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Comments.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Comments.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Comments.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Comments.cshtml",
+              "RelativeToolTip": "Pages\\Comments.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T00:22:45.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:53:25.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T01:02:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:52:59.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:30:02.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:48:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Workspace.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Models\\Workspace.cs",
+              "RelativeDocumentMoniker": "Models\\Workspace.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Models\\Workspace.cs",
+              "RelativeToolTip": "Models\\Workspace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:18:52.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:19:29.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserProfile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\UserProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserProfile.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\UserProfile.cshtml.cs",
+              "RelativeToolTip": "Pages\\UserProfile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:31:39.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Booking.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Booking.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Booking.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Booking.cshtml.cs",
+              "RelativeToolTip": "Pages\\Booking.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:05:45.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Workspaces\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Workspaces\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Workspaces\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Workspaces\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:06:14.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\DTO\\BookingDto.cs",
+              "RelativeDocumentMoniker": "DTO\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\DTO\\BookingDto.cs",
+              "RelativeToolTip": "DTO\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:51:40.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorHandlerAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Filters\\ErrorHandlerAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\ErrorHandlerAttribute.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Filters\\ErrorHandlerAttribute.cs",
+              "RelativeToolTip": "Filters\\ErrorHandlerAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:02:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WorkspaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\DTO\\WorkspaceDto.cs",
+              "RelativeDocumentMoniker": "DTO\\WorkspaceDto.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\DTO\\WorkspaceDto.cs",
+              "RelativeToolTip": "DTO\\WorkspaceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:52:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:05:02.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:21:24.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T20:18:51.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\DTO\\UserDto.cs",
+              "RelativeToolTip": "DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:51:11.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "testprojekt.csproj",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\testprojekt.csproj",
+              "RelativeDocumentMoniker": "testprojekt.csproj",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\testprojekt.csproj",
+              "RelativeToolTip": "testprojekt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T00:21:57.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "testprojekt",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\testprojekt.csproj",
+              "RelativeDocumentMoniker": "testprojekt.csproj",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u0438\u0440\u0438\u043B\u043B\\testprojekt\\testprojekt.csproj",
+              "RelativeToolTip": "testprojekt.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T03:54:06.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

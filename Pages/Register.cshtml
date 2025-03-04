@@ -1,0 +1,36 @@
+﻿@page
+@model testprojekt.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Регистрация";
+}
+
+<h2>Регистрация</h2>
+
+<form method="post">
+    <div>
+        <label asp-for="User.Name"></label>
+        <input asp-for="User.Name" />
+        <span asp-validation-for="User.Name"></span>
+    </div>
+    <div>
+        <label asp-for="User.Email"></label>
+        <input asp-for="User.Email" />
+        <span asp-validation-for="User.Email"></span>
+    </div>
+    <div>
+        <label asp-for="User.Password"></label>
+        <input asp-for="User.Password" type="password" />
+        <span asp-validation-for="User.Password"></span>
+    </div>
+    <div>
+        <label asp-for="User.Role"></label>
+        <input asp-for="User.Role" />
+        <span asp-validation-for="User.Role"></span>
+    </div>
+    <button type="submit">Зарегистрироваться</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <div>@Model.Message</div>
+}
